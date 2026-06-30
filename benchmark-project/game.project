@@ -78,7 +78,7 @@ app_id=000000000
 [android]
 iap_provider = GooglePlay
 package = com.defold.testBunchExtensions
-minimum_sdk_version = 21
+minimum_sdk_version = 23
 target_sdk_version = 34
 manifest = /platform/android/AndroidManifest.xml
 
