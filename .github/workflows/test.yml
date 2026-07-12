@@ -65,7 +65,7 @@ jobs:
           { name: 'Screenshot', url: 'https://github.com/britzl/defold-screenshot', head: 'master' },
           { name: 'LuaSec', url: 'https://github.com/britzl/defold-luasec', head: 'master' },
           { name: 'Sharing', url: 'https://github.com/britzl/defold-sharing', head: 'master' },
-          { name: 'Imgui', url: 'https://github.com/britzl/extension-imgui', head: 'master' },
+          { name: 'Imgui', url: 'https://github.com/defold/extension-imgui', head: 'master' },
           { name: 'VideoAds', url: 'https://github.com/AGulev/DefVideoAds', head: 'master' },
           { name: 'Defos', url: 'https://github.com/subsoap/defos', head: 'master' },
           { name: 'Directories', url: 'https://github.com/Lerg/extension-directories', head: 'master' },
